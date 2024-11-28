@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "19202381610",
+    "project_id": "tastefinder1",
+    "storage_bucket": "tastefinder1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19202381610:android:e4b4fb75f218999f393053",
+        "android_client_info": {
+          "package_name": "com.example.TasteFinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19202381610-rlk5hnf4bsamcv74gal4hq6cjb1m0pot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.TasteFinder",
+            "certificate_hash": "644bae076874e150affb492e6e3f1778c82081c5"
+          }
+        },
+        {
+          "client_id": "19202381610-51qj822pn831ldnjv0mgp1qpesf5o036.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQjYaLC-rgdDnUZ9Fr6hhF4Q8yL4bY5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19202381610-51qj822pn831ldnjv0mgp1qpesf5o036.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

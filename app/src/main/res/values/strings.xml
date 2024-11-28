@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Taste Finder</string>
+    <string name="welcome_to_taste_finder">Welcome To Taste Finder</string>
+    <string name="get_started">Get Started</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Close Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="location_link"><u>Link</u></string>
+    <string name="facebook_link"><u>Facebook Link</u></string>
+</resources>
